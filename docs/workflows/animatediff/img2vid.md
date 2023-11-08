@@ -15,6 +15,7 @@ has_children: false
 ### Workflow
 
 ![](../../../assets/images/img2vid_v1_workflow.png)
+[Download](../../assets/comfyui/img2vid.json){:download="img2vid.json"}
 
 ### Output
 
