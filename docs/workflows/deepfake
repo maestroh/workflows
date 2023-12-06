@@ -1,0 +1,24 @@
+---
+layout: default
+title: Deep Fake
+parent: Workflows
+nav_order: 2
+has_children: false
+---
+
+
+### Face
+Use Reactor and VHS to deepfake the face
+
+
+### Voice
+https://www.youtube.com/watch?v=r5pu-oeIfMY&list=WL&index=3&t=1s
+use https://github.com/gitmylo/audio-webui
+
+There are training steps and voice to voice
+
+
+### Lip Sync
+https://www.youtube.com/watch?v=a-6DWeGT1DY
+Use https://github.com/natlamir/DINet
+
