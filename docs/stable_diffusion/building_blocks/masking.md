@@ -2,6 +2,7 @@
 layout: default
 title: Masking
 parent: Building Blocks
+grand_parent: Stable Diffusion
 nav_order: 4
 has_children: false
 ---

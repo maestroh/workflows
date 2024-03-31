@@ -2,6 +2,7 @@
 layout: default
 title: Reactor - Face Swap
 parent: Building Blocks
+grand_parent: Stable Diffusion
 nav_order: 6
 has_children: false
 ---

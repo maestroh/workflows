@@ -2,6 +2,7 @@
 layout: default
 title: ComfyUI
 parent: Tools
+grand_parent: Building Blocks
 nav_order: 2
 has_children: false
 ---

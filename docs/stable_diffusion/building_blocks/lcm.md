@@ -2,6 +2,7 @@
 layout: default
 title: LCM
 parent: Building Blocks
+grand_parent: Stable Diffusion
 nav_order: 5
 has_children: false
 ---

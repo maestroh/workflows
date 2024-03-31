@@ -2,6 +2,7 @@
 layout: default
 title: Krita
 parent: Tools
+grand_parent: Tools
 nav_order: 1
 has_children: false
 ---
