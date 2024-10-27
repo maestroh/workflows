@@ -21,3 +21,8 @@ has_children: false
 
 ![](../../assets/images/ipadapter_output.png)
 
+
+### Style Transfer Workflow
+
+[Image Style Transfert using IPAdapter](https://openart.ai/workflows/WHGbsWkm7M5sUdIVVqFt){:target="_blank"}
+
